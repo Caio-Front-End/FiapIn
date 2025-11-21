@@ -1,0 +1,4168 @@
+[
+  {
+    "id": 1,
+    "nome": "Pedro Ribeiro",
+    "foto": "https://ui-avatars.com/api/?name=Pedro+Ribeiro&background=random&size=256",
+    "cargo": "Especialista em GPS Agrícola",
+    "resumo": "Profissional focado em Gestão com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Ribeirão Preto/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Python",
+      "Gestão de Safra",
+      "Excel Avançado",
+      "React",
+      "Análise de Solo",
+      "Pilotagem de Drone"
+    ],
+    "softSkills": [
+      "Comunicação Rural",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Especialista em GPS Agrícola",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Bioenergia",
+      "Cafés Especiais",
+      "Startups Agro",
+      "Pecuária de Corte"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Fernanda Oliveira",
+    "foto": "https://ui-avatars.com/api/?name=Fernanda+Oliveira&background=random&size=256",
+    "cargo": "Operador de Drone Agrícola",
+    "resumo": "Profissional focado em Agronomia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Cascavel/PR",
+    "area": "Agronomia",
+    "habilidadesTecnicas": [
+      "Python",
+      "Pilotagem de Drone",
+      "GPS Agrícola",
+      "Java",
+      "Análise de Solo"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Negociação",
+      "Resiliência",
+      "Visão Sistêmica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Operador de Drone Agrícola",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Bioenergia",
+      "Cafés Especiais",
+      "Startups Agro"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Bento Silva",
+    "foto": "https://ui-avatars.com/api/?name=Bento+Silva&background=random&size=256",
+    "cargo": "Analista de Safra e Big Data",
+    "resumo": "Profissional focado em Gestão com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Luís Eduardo Magalhães/BA",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Pilotagem de Drone",
+      "Python",
+      "Sensores IoT",
+      "React",
+      "Gestão de Safra"
+    ],
+    "softSkills": [
+      "Visão Sistêmica",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Analista de Safra e Big Data",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cafés Especiais",
+      "Startups Agro",
+      "Bioenergia"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Amanda Barbosa",
+    "foto": "https://ui-avatars.com/api/?name=Amanda+Barbosa&background=random&size=256",
+    "cargo": "Operador de Drone Agrícola",
+    "resumo": "Profissional focado em Veterinária com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Sorriso/MT",
+    "area": "Veterinária",
+    "habilidadesTecnicas": [
+      "Sensores IoT",
+      "Python",
+      "Pilotagem de Drone",
+      "Java"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Comunicação Rural",
+      "Trabalho em Equipe",
+      "Visão Sistêmica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Operador de Drone Agrícola",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Pecuária de Corte"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Tião Silva",
+    "foto": "https://ui-avatars.com/api/?name=Tião+Silva&background=random&size=256",
+    "cargo": "Especialista em GPS Agrícola",
+    "resumo": "Profissional focado em Veterinária com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Petrolina/PE",
+    "area": "Veterinária",
+    "habilidadesTecnicas": [
+      "Pilotagem de Drone",
+      "Java",
+      "Node.js",
+      "Python"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Negociação",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Especialista em GPS Agrícola",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cooperativismo",
+      "Cafés Especiais",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "João Santos",
+    "foto": "https://ui-avatars.com/api/?name=João+Santos&background=random&size=256",
+    "cargo": "Consultor de Agrobusiness",
+    "resumo": "Profissional focado em Veterinária com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Uberaba/MG",
+    "area": "Veterinária",
+    "habilidadesTecnicas": [
+      "React",
+      "Java",
+      "Python",
+      "Pilotagem de Drone",
+      "GPS Agrícola",
+      "Análise de Solo"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resiliência",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Consultor de Agrobusiness",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cafés Especiais",
+      "Cooperativismo"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Larissa da Soja",
+    "foto": "https://ui-avatars.com/api/?name=Larissa+da Soja&background=random&size=256",
+    "cargo": "Analista de Safra e Big Data",
+    "resumo": "Profissional focado em Agronomia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Cascavel/PR",
+    "area": "Agronomia",
+    "habilidadesTecnicas": [
+      "Pilotagem de Drone",
+      "Python",
+      "Power BI",
+      "Gestão de Safra",
+      "Excel Avançado",
+      "Java"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Resiliência",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Analista de Safra e Big Data",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Startups Agro",
+      "Bioenergia"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Beatriz Gomes",
+    "foto": "https://ui-avatars.com/api/?name=Beatriz+Gomes&background=random&size=256",
+    "cargo": "Engenheiro Agrônomo de Dados",
+    "resumo": "Profissional focado em Veterinária com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Cascavel/PR",
+    "area": "Veterinária",
+    "habilidadesTecnicas": [
+      "GPS Agrícola",
+      "Sensores IoT",
+      "Irrigação Automatizada",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Comunicação Rural",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Engenheiro Agrônomo de Dados",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Startups Agro",
+      "Cooperativismo"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Mariana Ferreira",
+    "foto": "https://ui-avatars.com/api/?name=Mariana+Ferreira&background=random&size=256",
+    "cargo": "Técnico em Irrigação Smart",
+    "resumo": "Profissional focado em Gestão com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Piracicaba/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Gestão de Safra",
+      "GPS Agrícola",
+      "Java",
+      "Excel Avançado",
+      "React"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Comunicação Rural"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Técnico em Irrigação Smart",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Pecuária de Corte",
+      "Agricultura 4.0",
+      "Bioenergia"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "João Oliveira",
+    "foto": "https://ui-avatars.com/api/?name=João+Oliveira&background=random&size=256",
+    "cargo": "Analista de Safra e Big Data",
+    "resumo": "Profissional focado em Operacional com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Cascavel/PR",
+    "area": "Operacional",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Análise de Solo",
+      "Python"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Proatividade",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Analista de Safra e Big Data",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Startups Agro",
+      "Pecuária de Corte",
+      "Bioenergia"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Augusto Barbosa",
+    "foto": "https://ui-avatars.com/api/?name=Augusto+Barbosa&background=random&size=256",
+    "cargo": "Desenvolvedor IoT Rural",
+    "resumo": "Profissional focado em Operacional com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Londrina/PR",
+    "area": "Operacional",
+    "habilidadesTecnicas": [
+      "Python",
+      "Gestão de Safra",
+      "Excel Avançado",
+      "Análise de Solo",
+      "Sensores IoT",
+      "Java"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Desenvolvedor IoT Rural",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Startups Agro",
+      "Pecuária de Corte"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Pedro Santos",
+    "foto": "https://ui-avatars.com/api/?name=Pedro+Santos&background=random&size=256",
+    "cargo": "Especialista em GPS Agrícola",
+    "resumo": "Profissional focado em Gestão com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Rio Verde/GO",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Gestão de Safra",
+      "Irrigação Automatizada",
+      "React",
+      "GPS Agrícola",
+      "Python",
+      "Excel Avançado"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Trabalho em Equipe",
+      "Liderança",
+      "Comunicação Rural"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Especialista em GPS Agrícola",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Startups Agro",
+      "Pecuária de Corte",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Fernanda Rodrigues",
+    "foto": "https://ui-avatars.com/api/?name=Fernanda+Rodrigues&background=random&size=256",
+    "cargo": "Técnico em Irrigação Smart",
+    "resumo": "Profissional focado em Gestão com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Sorriso/MT",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Sensores IoT",
+      "Gestão de Safra",
+      "Pilotagem de Drone",
+      "GPS Agrícola",
+      "Irrigação Automatizada"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Técnico em Irrigação Smart",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cooperativismo",
+      "Pecuária de Corte",
+      "Startups Agro"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Mariana Costa",
+    "foto": "https://ui-avatars.com/api/?name=Mariana+Costa&background=random&size=256",
+    "cargo": "Consultor de Agrobusiness",
+    "resumo": "Profissional focado em Agronomia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Luís Eduardo Magalhães/BA",
+    "area": "Agronomia",
+    "habilidadesTecnicas": [
+      "Java",
+      "Sensores IoT",
+      "Node.js",
+      "Power BI",
+      "React"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Liderança",
+      "Comunicação Rural"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Consultor de Agrobusiness",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Startups Agro",
+      "Agricultura 4.0",
+      "Sustentabilidade",
+      "Pecuária de Corte"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Camila Pereira",
+    "foto": "https://ui-avatars.com/api/?name=Camila+Pereira&background=random&size=256",
+    "cargo": "Dev FullStack do Agro",
+    "resumo": "Profissional focado em Operacional com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Ribeirão Preto/SP",
+    "area": "Operacional",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Pilotagem de Drone",
+      "Python",
+      "Excel Avançado",
+      "Sensores IoT"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Resiliência",
+      "Negociação",
+      "Comunicação Rural"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Dev FullStack do Agro",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Startups Agro",
+      "Bioenergia",
+      "Agricultura 4.0",
+      "Cooperativismo"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "João da Soja",
+    "foto": "https://ui-avatars.com/api/?name=João+da Soja&background=random&size=256",
+    "cargo": "Analista de Safra e Big Data",
+    "resumo": "Profissional focado em Gestão com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Londrina/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Python",
+      "Sensores IoT",
+      "Irrigação Automatizada"
+    ],
+    "softSkills": [
+      "Comunicação Rural",
+      "Trabalho em Equipe",
+      "Visão Sistêmica",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Analista de Safra e Big Data",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cooperativismo",
+      "Cafés Especiais",
+      "Bioenergia",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Larissa Gomes",
+    "foto": "https://ui-avatars.com/api/?name=Larissa+Gomes&background=random&size=256",
+    "cargo": "Gestor de Fazenda 4.0",
+    "resumo": "Profissional focado em Veterinária com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Luís Eduardo Magalhães/BA",
+    "area": "Veterinária",
+    "habilidadesTecnicas": [
+      "Análise de Solo",
+      "Power BI",
+      "Excel Avançado",
+      "Pilotagem de Drone"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Gestor de Fazenda 4.0",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cooperativismo",
+      "Cafés Especiais"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Bento Oliveira",
+    "foto": "https://ui-avatars.com/api/?name=Bento+Oliveira&background=random&size=256",
+    "cargo": "Desenvolvedor IoT Rural",
+    "resumo": "Profissional focado em Veterinária com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Rio Verde/GO",
+    "area": "Veterinária",
+    "habilidadesTecnicas": [
+      "React",
+      "Sensores IoT",
+      "Node.js",
+      "Análise de Solo",
+      "Python"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Proatividade",
+      "Negociação",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Desenvolvedor IoT Rural",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Agricultura 4.0",
+      "Bioenergia",
+      "Startups Agro"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Zé Martins",
+    "foto": "https://ui-avatars.com/api/?name=Zé+Martins&background=random&size=256",
+    "cargo": "Engenheiro Agrônomo de Dados",
+    "resumo": "Profissional focado em Agronomia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Luís Eduardo Magalhães/BA",
+    "area": "Agronomia",
+    "habilidadesTecnicas": [
+      "Análise de Solo",
+      "Pilotagem de Drone",
+      "Java",
+      "Gestão de Safra"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Engenheiro Agrônomo de Dados",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Bioenergia",
+      "Agricultura 4.0"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Larissa Santos",
+    "foto": "https://ui-avatars.com/api/?name=Larissa+Santos&background=random&size=256",
+    "cargo": "Engenheiro Agrônomo de Dados",
+    "resumo": "Profissional focado em Gestão com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Ribeirão Preto/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Excel Avançado",
+      "Node.js",
+      "Irrigação Automatizada",
+      "Análise de Solo",
+      "Python",
+      "Sensores IoT"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Liderança",
+      "Adaptabilidade",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Engenheiro Agrônomo de Dados",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Startups Agro",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Jéssica do Milho",
+    "foto": "https://ui-avatars.com/api/?name=Jéssica+do Milho&background=random&size=256",
+    "cargo": "Consultor de Agrobusiness",
+    "resumo": "Profissional focado em Agronomia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Luís Eduardo Magalhães/BA",
+    "area": "Agronomia",
+    "habilidadesTecnicas": [
+      "Irrigação Automatizada",
+      "Gestão de Safra",
+      "Excel Avançado",
+      "Pilotagem de Drone",
+      "Python"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Consultor de Agrobusiness",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cooperativismo",
+      "Agricultura 4.0",
+      "Startups Agro",
+      "Bioenergia"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Camila Santos",
+    "foto": "https://ui-avatars.com/api/?name=Camila+Santos&background=random&size=256",
+    "cargo": "Analista de Safra e Big Data",
+    "resumo": "Profissional focado em Veterinária com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Londrina/PR",
+    "area": "Veterinária",
+    "habilidadesTecnicas": [
+      "Irrigação Automatizada",
+      "Gestão de Safra",
+      "Power BI",
+      "Python",
+      "Análise de Solo"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Analista de Safra e Big Data",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Agricultura 4.0",
+      "Cooperativismo",
+      "Pecuária de Corte",
+      "Startups Agro"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "João Ribeiro",
+    "foto": "https://ui-avatars.com/api/?name=João+Ribeiro&background=random&size=256",
+    "cargo": "Analista de Safra e Big Data",
+    "resumo": "Profissional focado em Gestão com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Petrolina/PE",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Gestão de Safra",
+      "Sensores IoT",
+      "Python"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Resiliência",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Analista de Safra e Big Data",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Agricultura 4.0",
+      "Startups Agro"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Tonho Ribeiro",
+    "foto": "https://ui-avatars.com/api/?name=Tonho+Ribeiro&background=random&size=256",
+    "cargo": "Veterinário de Precisão",
+    "resumo": "Profissional focado em Veterinária com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Uberaba/MG",
+    "area": "Veterinária",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Excel Avançado",
+      "Sensores IoT",
+      "Java"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Veterinário de Precisão",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Startups Agro",
+      "Agricultura 4.0",
+      "Cafés Especiais",
+      "Bioenergia"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Felipe da Soja",
+    "foto": "https://ui-avatars.com/api/?name=Felipe+da Soja&background=random&size=256",
+    "cargo": "Veterinário de Precisão",
+    "resumo": "Profissional focado em Gestão com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Luís Eduardo Magalhães/BA",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Gestão de Safra",
+      "Sensores IoT",
+      "Java",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Adaptabilidade",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Veterinário de Precisão",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cooperativismo",
+      "Pecuária de Corte",
+      "Bioenergia"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Pedro Costa",
+    "foto": "https://ui-avatars.com/api/?name=Pedro+Costa&background=random&size=256",
+    "cargo": "Gestor de Fazenda 4.0",
+    "resumo": "Profissional focado em Agronomia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Londrina/PR",
+    "area": "Agronomia",
+    "habilidadesTecnicas": [
+      "Gestão de Safra",
+      "Power BI",
+      "Java"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Gestor de Fazenda 4.0",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Agricultura 4.0",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Amanda Martins",
+    "foto": "https://ui-avatars.com/api/?name=Amanda+Martins&background=random&size=256",
+    "cargo": "Engenheiro Agrônomo de Dados",
+    "resumo": "Profissional focado em Veterinária com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Uberaba/MG",
+    "area": "Veterinária",
+    "habilidadesTecnicas": [
+      "Análise de Solo",
+      "Excel Avançado",
+      "Python",
+      "Irrigação Automatizada",
+      "Sensores IoT",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Proatividade",
+      "Resiliência",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Engenheiro Agrônomo de Dados",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Agricultura 4.0",
+      "Sustentabilidade",
+      "Cooperativismo"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Mariana Costa",
+    "foto": "https://ui-avatars.com/api/?name=Mariana+Costa&background=random&size=256",
+    "cargo": "Veterinário de Precisão",
+    "resumo": "Profissional focado em Gestão com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Sorriso/MT",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "React",
+      "GPS Agrícola",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Adaptabilidade",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Veterinário de Precisão",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Agricultura 4.0"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Chico Almeida",
+    "foto": "https://ui-avatars.com/api/?name=Chico+Almeida&background=random&size=256",
+    "cargo": "Especialista em GPS Agrícola",
+    "resumo": "Profissional focado em Agronomia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Ribeirão Preto/SP",
+    "area": "Agronomia",
+    "habilidadesTecnicas": [
+      "Pilotagem de Drone",
+      "Análise de Solo",
+      "Node.js",
+      "Python",
+      "React",
+      "GPS Agrícola"
+    ],
+    "softSkills": [
+      "Visão Sistêmica",
+      "Liderança",
+      "Resiliência",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Especialista em GPS Agrícola",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Bioenergia",
+      "Pecuária de Corte",
+      "Sustentabilidade",
+      "Cooperativismo"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Fernanda Rodrigues",
+    "foto": "https://ui-avatars.com/api/?name=Fernanda+Rodrigues&background=random&size=256",
+    "cargo": "Analista de Safra e Big Data",
+    "resumo": "Profissional focado em Operacional com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Petrolina/PE",
+    "area": "Operacional",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Irrigação Automatizada",
+      "GPS Agrícola"
+    ],
+    "softSkills": [
+      "Visão Sistêmica",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Analista de Safra e Big Data",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Agricultura 4.0",
+      "Pecuária de Corte"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Mariana Ferreira",
+    "foto": "https://ui-avatars.com/api/?name=Mariana+Ferreira&background=random&size=256",
+    "cargo": "Especialista em GPS Agrícola",
+    "resumo": "Profissional focado em Tecnologia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Rio Verde/GO",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Gestão de Safra",
+      "Power BI",
+      "Irrigação Automatizada"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Visão Sistêmica",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Especialista em GPS Agrícola",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas para Internet",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cafés Especiais",
+      "Bioenergia"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Fernanda Pereira",
+    "foto": "https://ui-avatars.com/api/?name=Fernanda+Pereira&background=random&size=256",
+    "cargo": "Técnico em Irrigação Smart",
+    "resumo": "Profissional focado em Veterinária com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Cascavel/PR",
+    "area": "Veterinária",
+    "habilidadesTecnicas": [
+      "Java",
+      "Excel Avançado",
+      "Irrigação Automatizada"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Resiliência",
+      "Comunicação Rural"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Técnico em Irrigação Smart",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cafés Especiais",
+      "Agricultura 4.0",
+      "Cooperativismo",
+      "Bioenergia"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Augusto Pereira",
+    "foto": "https://ui-avatars.com/api/?name=Augusto+Pereira&background=random&size=256",
+    "cargo": "Técnico em Irrigação Smart",
+    "resumo": "Profissional focado em Tecnologia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Chapecó/SC",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Python",
+      "React",
+      "Pilotagem de Drone",
+      "Node.js",
+      "Excel Avançado"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Visão Sistêmica",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Técnico em Irrigação Smart",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas para Internet",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cooperativismo",
+      "Cafés Especiais"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Bento Mendes",
+    "foto": "https://ui-avatars.com/api/?name=Bento+Mendes&background=random&size=256",
+    "cargo": "Veterinário de Precisão",
+    "resumo": "Profissional focado em Operacional com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Luís Eduardo Magalhães/BA",
+    "area": "Operacional",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "Excel Avançado",
+      "Pilotagem de Drone",
+      "Sensores IoT",
+      "Python"
+    ],
+    "softSkills": [
+      "Visão Sistêmica",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Veterinário de Precisão",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cooperativismo",
+      "Pecuária de Corte"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Augusto Rodrigues",
+    "foto": "https://ui-avatars.com/api/?name=Augusto+Rodrigues&background=random&size=256",
+    "cargo": "Consultor de Agrobusiness",
+    "resumo": "Profissional focado em Gestão com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Piracicaba/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "GPS Agrícola",
+      "Java",
+      "Power BI",
+      "Excel Avançado"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Comunicação Rural"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Consultor de Agrobusiness",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cafés Especiais",
+      "Sustentabilidade",
+      "Agricultura 4.0"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Amanda Pereira",
+    "foto": "https://ui-avatars.com/api/?name=Amanda+Pereira&background=random&size=256",
+    "cargo": "Operador de Drone Agrícola",
+    "resumo": "Profissional focado em Veterinária com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Sorriso/MT",
+    "area": "Veterinária",
+    "habilidadesTecnicas": [
+      "Python",
+      "Análise de Solo",
+      "React",
+      "Node.js",
+      "Pilotagem de Drone",
+      "Java"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Trabalho em Equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Operador de Drone Agrícola",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Pecuária de Corte",
+      "Cafés Especiais"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Tião Martins",
+    "foto": "https://ui-avatars.com/api/?name=Tião+Martins&background=random&size=256",
+    "cargo": "Gestor de Fazenda 4.0",
+    "resumo": "Profissional focado em Operacional com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Luís Eduardo Magalhães/BA",
+    "area": "Operacional",
+    "habilidadesTecnicas": [
+      "Python",
+      "Análise de Solo",
+      "Java",
+      "Gestão de Safra"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Adaptabilidade",
+      "Negociação",
+      "Visão Sistêmica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Gestor de Fazenda 4.0",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cooperativismo",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Larissa Mendes",
+    "foto": "https://ui-avatars.com/api/?name=Larissa+Mendes&background=random&size=256",
+    "cargo": "Gestor de Fazenda 4.0",
+    "resumo": "Profissional focado em Operacional com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Ribeirão Preto/SP",
+    "area": "Operacional",
+    "habilidadesTecnicas": [
+      "Pilotagem de Drone",
+      "Java",
+      "Excel Avançado",
+      "GPS Agrícola",
+      "Python"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Visão Sistêmica",
+      "Comunicação Rural",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Gestor de Fazenda 4.0",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Cafés Especiais"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Tonho Santos",
+    "foto": "https://ui-avatars.com/api/?name=Tonho+Santos&background=random&size=256",
+    "cargo": "Gestor de Fazenda 4.0",
+    "resumo": "Profissional focado em Agronomia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Luís Eduardo Magalhães/BA",
+    "area": "Agronomia",
+    "habilidadesTecnicas": [
+      "Sensores IoT",
+      "Análise de Solo",
+      "Node.js",
+      "Pilotagem de Drone",
+      "Java",
+      "React"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Comunicação Rural"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Gestor de Fazenda 4.0",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Agricultura 4.0"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Juliana Barbosa",
+    "foto": "https://ui-avatars.com/api/?name=Juliana+Barbosa&background=random&size=256",
+    "cargo": "Engenheiro Agrônomo de Dados",
+    "resumo": "Profissional focado em Tecnologia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Rio Verde/GO",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Irrigação Automatizada",
+      "React",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Engenheiro Agrônomo de Dados",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas para Internet",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Agricultura 4.0",
+      "Bioenergia",
+      "Startups Agro"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Augusto Costa",
+    "foto": "https://ui-avatars.com/api/?name=Augusto+Costa&background=random&size=256",
+    "cargo": "Gestor de Fazenda 4.0",
+    "resumo": "Profissional focado em Gestão com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Petrolina/PE",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "React",
+      "Java",
+      "Irrigação Automatizada",
+      "Gestão de Safra"
+    ],
+    "softSkills": [
+      "Comunicação Rural",
+      "Adaptabilidade",
+      "Proatividade",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Gestor de Fazenda 4.0",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Bioenergia",
+      "Sustentabilidade",
+      "Pecuária de Corte"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Larissa Martins",
+    "foto": "https://ui-avatars.com/api/?name=Larissa+Martins&background=random&size=256",
+    "cargo": "Operador de Drone Agrícola",
+    "resumo": "Profissional focado em Agronomia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Piracicaba/SP",
+    "area": "Agronomia",
+    "habilidadesTecnicas": [
+      "Gestão de Safra",
+      "Python",
+      "Excel Avançado",
+      "Pilotagem de Drone",
+      "Irrigação Automatizada"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação Rural",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Operador de Drone Agrícola",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Agricultura 4.0",
+      "Startups Agro",
+      "Bioenergia",
+      "Cooperativismo"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Bento Ferreira",
+    "foto": "https://ui-avatars.com/api/?name=Bento+Ferreira&background=random&size=256",
+    "cargo": "Analista de Safra e Big Data",
+    "resumo": "Profissional focado em Agronomia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Ribeirão Preto/SP",
+    "area": "Agronomia",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Análise de Solo",
+      "React"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação Rural",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Analista de Safra e Big Data",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Startups Agro",
+      "Bioenergia",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Chico Silva",
+    "foto": "https://ui-avatars.com/api/?name=Chico+Silva&background=random&size=256",
+    "cargo": "Gestor de Fazenda 4.0",
+    "resumo": "Profissional focado em Operacional com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Petrolina/PE",
+    "area": "Operacional",
+    "habilidadesTecnicas": [
+      "GPS Agrícola",
+      "Sensores IoT",
+      "Power BI",
+      "Pilotagem de Drone",
+      "React"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Adaptabilidade",
+      "Comunicação Rural",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Gestor de Fazenda 4.0",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cafés Especiais",
+      "Startups Agro",
+      "Bioenergia",
+      "Agricultura 4.0"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Raimundo da Soja",
+    "foto": "https://ui-avatars.com/api/?name=Raimundo+da Soja&background=random&size=256",
+    "cargo": "Veterinário de Precisão",
+    "resumo": "Profissional focado em Agronomia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Londrina/PR",
+    "area": "Agronomia",
+    "habilidadesTecnicas": [
+      "Excel Avançado",
+      "Python",
+      "Irrigação Automatizada",
+      "Gestão de Safra",
+      "Pilotagem de Drone"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Liderança",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Veterinário de Precisão",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cooperativismo",
+      "Pecuária de Corte"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Tonho Santos",
+    "foto": "https://ui-avatars.com/api/?name=Tonho+Santos&background=random&size=256",
+    "cargo": "Consultor de Agrobusiness",
+    "resumo": "Profissional focado em Agronomia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Rio Verde/GO",
+    "area": "Agronomia",
+    "habilidadesTecnicas": [
+      "Python",
+      "GPS Agrícola",
+      "React",
+      "Excel Avançado",
+      "Sensores IoT",
+      "Análise de Solo"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em Equipe",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Consultor de Agrobusiness",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cooperativismo",
+      "Cafés Especiais",
+      "Pecuária de Corte",
+      "Startups Agro"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Felipe Gomes",
+    "foto": "https://ui-avatars.com/api/?name=Felipe+Gomes&background=random&size=256",
+    "cargo": "Engenheiro Agrônomo de Dados",
+    "resumo": "Profissional focado em Agronomia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Petrolina/PE",
+    "area": "Agronomia",
+    "habilidadesTecnicas": [
+      "Pilotagem de Drone",
+      "Node.js",
+      "Python"
+    ],
+    "softSkills": [
+      "Comunicação Rural",
+      "Negociação",
+      "Visão Sistêmica",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Engenheiro Agrônomo de Dados",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Agricultura 4.0",
+      "Sustentabilidade",
+      "Bioenergia",
+      "Startups Agro"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Carla Gomes",
+    "foto": "https://ui-avatars.com/api/?name=Carla+Gomes&background=random&size=256",
+    "cargo": "Gestor de Fazenda 4.0",
+    "resumo": "Profissional focado em Agronomia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Piracicaba/SP",
+    "area": "Agronomia",
+    "habilidadesTecnicas": [
+      "Gestão de Safra",
+      "Node.js",
+      "Análise de Solo",
+      "Excel Avançado",
+      "GPS Agrícola"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Trabalho em Equipe",
+      "Comunicação Rural",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Gestor de Fazenda 4.0",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cooperativismo",
+      "Cafés Especiais"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Bento Ribeiro",
+    "foto": "https://ui-avatars.com/api/?name=Bento+Ribeiro&background=random&size=256",
+    "cargo": "Especialista em GPS Agrícola",
+    "resumo": "Profissional focado em Operacional com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Luís Eduardo Magalhães/BA",
+    "area": "Operacional",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Irrigação Automatizada",
+      "Pilotagem de Drone"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Adaptabilidade",
+      "Comunicação Rural",
+      "Visão Sistêmica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Especialista em GPS Agrícola",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Bioenergia",
+      "Agricultura 4.0",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Tião Gomes",
+    "foto": "https://ui-avatars.com/api/?name=Tião+Gomes&background=random&size=256",
+    "cargo": "Operador de Drone Agrícola",
+    "resumo": "Profissional focado em Operacional com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Ribeirão Preto/SP",
+    "area": "Operacional",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Irrigação Automatizada",
+      "Sensores IoT",
+      "Pilotagem de Drone",
+      "Gestão de Safra"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Operador de Drone Agrícola",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Agricultura 4.0",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Augusto da Soja",
+    "foto": "https://ui-avatars.com/api/?name=Augusto+da Soja&background=random&size=256",
+    "cargo": "Dev FullStack do Agro",
+    "resumo": "Profissional focado em Gestão com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Londrina/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Análise de Solo",
+      "Irrigação Automatizada",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Visão Sistêmica",
+      "Resiliência",
+      "Comunicação Rural"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Dev FullStack do Agro",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Bioenergia",
+      "Cafés Especiais"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Raimundo Rodrigues",
+    "foto": "https://ui-avatars.com/api/?name=Raimundo+Rodrigues&background=random&size=256",
+    "cargo": "Dev FullStack do Agro",
+    "resumo": "Profissional focado em Gestão com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Piracicaba/SP",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Java",
+      "Irrigação Automatizada",
+      "Excel Avançado"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Dev FullStack do Agro",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cooperativismo",
+      "Cafés Especiais",
+      "Agricultura 4.0",
+      "Bioenergia"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Camila Santos",
+    "foto": "https://ui-avatars.com/api/?name=Camila+Santos&background=random&size=256",
+    "cargo": "Consultor de Agrobusiness",
+    "resumo": "Profissional focado em Tecnologia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Uberaba/MG",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "GPS Agrícola",
+      "Excel Avançado",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Trabalho em Equipe",
+      "Comunicação Rural",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Consultor de Agrobusiness",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas para Internet",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Startups Agro",
+      "Cafés Especiais",
+      "Agricultura 4.0"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Beatriz da Soja",
+    "foto": "https://ui-avatars.com/api/?name=Beatriz+da Soja&background=random&size=256",
+    "cargo": "Dev FullStack do Agro",
+    "resumo": "Profissional focado em Agronomia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Rio Verde/GO",
+    "area": "Agronomia",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "Pilotagem de Drone",
+      "Sensores IoT",
+      "GPS Agrícola",
+      "Java"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Trabalho em Equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Dev FullStack do Agro",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Startups Agro",
+      "Cafés Especiais",
+      "Pecuária de Corte"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Pedro Rodrigues",
+    "foto": "https://ui-avatars.com/api/?name=Pedro+Rodrigues&background=random&size=256",
+    "cargo": "Engenheiro Agrônomo de Dados",
+    "resumo": "Profissional focado em Veterinária com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Sorriso/MT",
+    "area": "Veterinária",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Pilotagem de Drone",
+      "Gestão de Safra",
+      "Java",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Engenheiro Agrônomo de Dados",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Startups Agro",
+      "Bioenergia",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Camila Mendes",
+    "foto": "https://ui-avatars.com/api/?name=Camila+Mendes&background=random&size=256",
+    "cargo": "Engenheiro Agrônomo de Dados",
+    "resumo": "Profissional focado em Operacional com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Ribeirão Preto/SP",
+    "area": "Operacional",
+    "habilidadesTecnicas": [
+      "React",
+      "Excel Avançado",
+      "Irrigação Automatizada"
+    ],
+    "softSkills": [
+      "Visão Sistêmica",
+      "Liderança",
+      "Trabalho em Equipe",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Engenheiro Agrônomo de Dados",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cafés Especiais",
+      "Cooperativismo"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Felipe Ribeiro",
+    "foto": "https://ui-avatars.com/api/?name=Felipe+Ribeiro&background=random&size=256",
+    "cargo": "Operador de Drone Agrícola",
+    "resumo": "Profissional focado em Agronomia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Cascavel/PR",
+    "area": "Agronomia",
+    "habilidadesTecnicas": [
+      "Python",
+      "Java",
+      "Sensores IoT",
+      "Excel Avançado",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Operador de Drone Agrícola",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Agricultura 4.0",
+      "Startups Agro",
+      "Pecuária de Corte",
+      "Cafés Especiais"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Augusto Ribeiro",
+    "foto": "https://ui-avatars.com/api/?name=Augusto+Ribeiro&background=random&size=256",
+    "cargo": "Operador de Drone Agrícola",
+    "resumo": "Profissional focado em Gestão com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Cascavel/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Python",
+      "Java",
+      "Pilotagem de Drone",
+      "Gestão de Safra",
+      "React"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Visão Sistêmica"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Operador de Drone Agrícola",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Bioenergia"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Amanda Rodrigues",
+    "foto": "https://ui-avatars.com/api/?name=Amanda+Rodrigues&background=random&size=256",
+    "cargo": "Especialista em GPS Agrícola",
+    "resumo": "Profissional focado em Operacional com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Cascavel/PR",
+    "area": "Operacional",
+    "habilidadesTecnicas": [
+      "GPS Agrícola",
+      "Análise de Solo",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação Rural",
+      "Negociação",
+      "Resiliência",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Especialista em GPS Agrícola",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia Agronômica",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Cooperativismo",
+      "Pecuária de Corte"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "João Martins",
+    "foto": "https://ui-avatars.com/api/?name=João+Martins&background=random&size=256",
+    "cargo": "Técnico em Irrigação Smart",
+    "resumo": "Profissional focado em Tecnologia com paixão por inovar no campo. Busco conectar tecnologia e tradição no FiapIn.",
+    "localizacao": "Ribeirão Preto/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Irrigação Automatizada",
+      "Python",
+      "GPS Agrícola",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Fazenda Boa Esperança",
+        "cargo": "Estagiário",
+        "inicio": "2020-01",
+        "fim": "2021-12",
+        "descricao": "Apoio na gestão de maquinário e implementação de sensores."
+      },
+      {
+        "empresa": "AgroTech Solutions",
+        "cargo": "Técnico em Irrigação Smart",
+        "inicio": "2022-01",
+        "fim": "Atualmente",
+        "descricao": "Desenvolvimento de soluções tecnológicas para aumento de produtividade no campo."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas para Internet",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Monitoramento de Safra via Satélite",
+        "link": "https://github.com/fiapin/projeto-agro",
+        "descricao": "Sistema web para análise de índices de vegetação (NDVI)."
+      }
+    ],
+    "certificacoes": [
+      "Piloto de Drone (ANAC)",
+      "Certificação IoT Rural"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Agricultura 4.0",
+      "Pecuária de Corte",
+      "Sustentabilidade",
+      "Startups Agro"
+    ]
+  }
+]
