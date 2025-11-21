@@ -53,7 +53,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/Caio-Front-End/FiapIn](https://github.com/Caio-Front-End/FiapIn)
+    git clone https://github.com/Caio-Front-End/FiapIn
     ```
 2.  **Navegue até a pasta do projeto:**
     ```bash
