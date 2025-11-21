@@ -1,1 +1,31 @@
-@import 'tailwindcss'
+@import "tailwindcss";
+
+@theme {
+  /* Paleta com tema 'Agro' */
+  --color-agro-50: #fcfdf7;
+  --color-agro-100: #f5f9e8;
+  --color-agro-600: #4d7c0f;
+  --color-agro-800: #365314;
+  --color-agro-900: #1a2e05;
+  
+  /* Detalhes em Amarelo */
+  --color-milho-400: #facc15; 
+
+  /* Animação do Modal */
+  --animate-fade-in-up: fadeInUp 0.3s ease-out forwards;
+
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+/* Configuração Dark Mode Manual */
+/* Garante que a classe .dark no HTML ative os estilos dark: */
+@custom-variant dark (&:where(.dark, .dark *));
