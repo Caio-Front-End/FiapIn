@@ -42,9 +42,39 @@ fiapin/
 │   ├── index.css        # Configuração do Tailwind v4
 │   └── main.jsx         # Ponto de entrada
 ├── gerarDados.js        # Script gerador de perfis
-```
-
-
 ├── index.html
 ├── package.json
 └── vite.config.js
+```
+
+## ⚙️ Como Executar o Projeto
+
+Para rodar este projeto localmente, siga os passos abaixo:
+
+1.  **Clone o Repositório:**
+    ```bash
+    git clone [https://github.com/Caio-Front-End/FiapIn](https://github.com/Caio-Front-End/FiapIn)
+    ```
+2.  **Navegue até a pasta do projeto:**
+    ```bash
+    cd FiapIn
+    ```
+3.  **Instale as dependências:**
+    ```bash
+    npm install
+    ```
+4.  **Inicie o servidor de desenvolvimento:**
+    ```bash
+    npm run dev
+    ```
+6.  **Abra no navegador:**
+    `A aplicação estará disponível em http://localhost:5173 (ou na porta indicada no seu terminal).`
+
+---
+
+## 👨‍💻 Desenvolvedores
+
+| Nome                           | Rede Social                                                                | RM's   |
+| ------------------------------ | -------------------------------------------------------------------------- | ------ |
+| Caio Nascimento Battista       | [LinkedIn](https://www.linkedin.com/in/cnbtt/)                             | 561383 |
+| Manoah Leão                    | [LinkedIn](https://www.linkedin.com/in/manoah-le%C3%A3o-735a83346/)        | 563713 |
