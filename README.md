@@ -1,16 +1,50 @@
-# React + Vite
+# 🌱 FiapIn - Conexão Agro 4.0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> "Conecte-se ao Agro 4.0: Encontre os melhores profissionais que unem campo e tecnologia."
 
-Currently, two official plugins are available:
+O **FiapIn** é uma plataforma web desenvolvida para conectar profissionais do agronegócio, com foco na inovação e tecnologia no campo. O projeto oferece uma interface moderna para buscar e visualizar perfis de especialistas em áreas como Agronomia, Tecnologia, Gestão e Veterinária.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este projeto faz parte da **Global Solution** da FIAP.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📸 Funcionalidades
 
-## Expanding the ESLint configuration
+- **📋 Listagem de Profissionais:** Visualização de cards com foto, nome, cargo, localização e principais habilidades.
+- **🔍 Filtros Dinâmicos:** Barra de busca por texto (nome/cargo) e botões de filtro rápido por área de atuação.
+- **🌗 Dark Mode:** Alternância de tema (Claro/Escuro) com suporte à preferência do sistema.
+- **📄 Detalhes em Modal:** Visualização expandida do perfil com resumo, experiências, formação e contato.
+- **📱 Responsividade:** Layout adaptável para dispositivos móveis e desktops.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tecnologias Utilizadas
+
+O projeto utiliza as ferramentas mais recentes do ecossistema React:
+
+- **[React](https://react.dev/)** (v19)
+- **[Vite](https://vitejs.dev/)** (Build Tool)
+- **[Tailwind CSS](https://tailwindcss.com/)** (v4) - Estilização via `@theme` e `@import`
+- **Node.js** - Para scripts auxiliares
+
+---
+
+## 📂 Estrutura do Projeto
+
+```bash
+fiapin/
+├── public/              # Arquivos públicos
+├── src/
+│   ├── assets/          # Imagens (logo)
+│   ├── components/      # Componentes (Header, FilterBar, ProfileCard, etc.)
+│   ├── data/            # Dados mockados (perfis.json)
+│   ├── App.jsx          # Componente principal
+│   ├── index.css        # Configuração do Tailwind v4
+│   └── main.jsx         # Ponto de entrada
+├── gerarDados.js        # Script gerador de perfis
+```
+
+
+├── index.html
+├── package.json
+└── vite.config.js
